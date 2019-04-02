@@ -2,8 +2,7 @@
 
 
 <p align="center">
- <img src="https://github.com/yan99033/CNN-SVO/blob/master/gif/kitti_preview.gif" width="723" height="224">
- <img src="https://github.com/yan99033/CNN-SVO/blob/master/gif/robotcar_preview.gif" width="723" height="224">
+ <img src="https://github.com/a-jahani/CropGrowthStage/blob/master/demo.gif" width="723" height="224">
 </p>
 
 _______________
