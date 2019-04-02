@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <img src="https://github.com/a-jahani/CropGrowthStage/blob/master/demo.gif" width="723" height="224">
+ <img src="https://github.com/a-jahani/CropGrowthStage/blob/master/demo.gif" width="300" height="400">
 </p>
 
 _______________
