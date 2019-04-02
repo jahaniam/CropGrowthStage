@@ -6,6 +6,9 @@
 </p>
 
 _______________
+ Finalist in [#ATBDATHATON](https://www.eventbrite.ca/e/atb-datathon-solve-for-alberta-solve-for-the-world-tickets-54668314400) held on 30 March,2019 in Edmonton, Alberta, CANADA.
+
+We created a real-time computer vision classification model to estimate plant growth stages and did a live demo on stage. 
 
 Full Demo: https://www.youtube.com/watch?v=G6xBIVzubFk
 
@@ -41,3 +44,4 @@ to run the inference code using webcam run the following:
 ```
 Will be updated
 ```
+________________
