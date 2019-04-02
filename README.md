@@ -1,15 +1,18 @@
 # Crop growth stage modeling and classification
+
+
+<p align="center">
+ <img src="https://github.com/yan99033/CNN-SVO/blob/master/gif/kitti_preview.gif" width="723" height="224">
+ <img src="https://github.com/yan99033/CNN-SVO/blob/master/gif/robotcar_preview.gif" width="723" height="224">
+</p>
+
 _______________
 
-
-Demo: https://www.youtube.com/watch?v=G6xBIVzubFk
+Full Demo: https://www.youtube.com/watch?v=G6xBIVzubFk
 
 Presentation: [Crop growth stage modeling and classification](https://drive.google.com/open?id=1P9jtOcwQjw0ygOf0gAYlQiGhG2rSv2cO)
 
-
-
-___________________
-# PlantGrowthClassification
+__________________
 ## Dataset
 1. Download the [Aberystwyth Leaf Evaluation Dataset](https://zenodo.org/record/168158#.XKJz2kCYU_U) 
 ```
