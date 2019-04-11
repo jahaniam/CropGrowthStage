@@ -14,6 +14,8 @@ Full Demo: https://www.youtube.com/watch?v=G6xBIVzubFk
 
 Presentation: [Crop growth stage modeling and classification](https://drive.google.com/open?id=1P9jtOcwQjw0ygOf0gAYlQiGhG2rSv2cO)
 
+Blog about the competition:
+https://www.linkedin.com/pulse/computer-vision-technology-project-recognized-finalist-kurrant/
 __________________
 ## Dataset
 1. Download the [Aberystwyth Leaf Evaluation Dataset](https://zenodo.org/record/168158#.XKJz2kCYU_U) 
